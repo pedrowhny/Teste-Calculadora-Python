@@ -2,8 +2,9 @@
 Este é um projeto de calculadora simples desenvolvido em Python. Ele permite realizar operações básicas como adição, subtração, multiplicação e divisão.
 
 Pré-requisitos:
-Python instalado
-VS Code instalado
+
+* Python instalado
+* VS Code instalado
 
 1.  Faça o download do projeto ou clone o repositório.
 2.  Abra o VS Code.
